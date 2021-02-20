@@ -128,3 +128,30 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+
+/* this enables the header and nav links stay inline after  */
+
+@media only screen and (max-width: 1007px) {
+    /* header nav ul li {
+        display: inline-block;
+        margin-left: 15px;
+    } */
+    header h1 {
+        display: inline-block;
+        font-size: 24px;
+    }
+    .benefits {
+        margin-right: 20px;
+        padding: 20px;
+        clear: both;
+        float: right;
+        width: 20%;
+        height: 50%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #2589bd;
+
+}
+}
+
+
+  
