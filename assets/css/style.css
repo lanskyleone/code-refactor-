@@ -129,7 +129,7 @@ footer h2 {
     font-size: 20px;
 }
 
-/* this enables the header and nav links stay inline after  */
+/* to adjust the nav links?!  */
 
 @media only screen and (max-width: 1007px) {
     /* header nav ul li {
@@ -140,17 +140,6 @@ footer h2 {
         display: inline-block;
         font-size: 24px;
     }
-    .benefits {
-        margin-right: 20px;
-        padding: 20px;
-        clear: both;
-        float: right;
-        width: 20%;
-        height: 50%;
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #2589bd;
-
-}
 }
 
 
